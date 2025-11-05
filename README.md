@@ -10,7 +10,7 @@
 
 ## Enlace al repo de github
 
-https://github.com/Pans3c0/Actividades_Despliegue_
+https://github.com/Pans3c0/Actividades_Despliegue
 
 ### Imagen del Insights
 
